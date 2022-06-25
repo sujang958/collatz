@@ -1,5 +1,3 @@
-import 'dart:math';
-
 void main() {
   for (var i = 2; i >= 0; i++) {
     print('$i - ${t(i.toDouble())}');
