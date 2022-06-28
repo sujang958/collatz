@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <limits.h>
 
 unsigned long long t(unsigned long long n) {
   if (n == 1ULL) {
