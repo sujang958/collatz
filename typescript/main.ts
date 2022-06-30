@@ -1,3 +1,5 @@
+// This implementation should be run on Deno
+// I ran && tested this on Deno
 const t = (n: bigint): bigint => {
   if (n == 1n) return n
 
